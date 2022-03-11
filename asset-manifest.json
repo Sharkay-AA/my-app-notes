@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-app-notes/static/css/main.81d84a36.css",
+    "main.js": "/my-app-notes/static/js/main.c281a7a4.js",
+    "static/media/settings.svg": "/my-app-notes/static/media/settings.b282a86f103227258fcbb93f5e2ac13c.svg",
+    "static/media/folder.svg": "/my-app-notes/static/media/folder.0fe7aef3ae0344395ab1388eab73f98a.svg",
+    "static/media/menu.svg": "/my-app-notes/static/media/menu.1b377fabd79ac1fb696f8ce866da0b37.svg",
+    "static/media/edit.svg": "/my-app-notes/static/media/edit.3c70b53795b8b86b5bd469f2d48afc3b.svg",
+    "static/media/remove.svg": "/my-app-notes/static/media/remove.562b6f7bf7e482744720f6ec099ae7fb.svg",
+    "index.html": "/my-app-notes/index.html",
+    "main.81d84a36.css.map": "/my-app-notes/static/css/main.81d84a36.css.map",
+    "main.c281a7a4.js.map": "/my-app-notes/static/js/main.c281a7a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81d84a36.css",
+    "static/js/main.c281a7a4.js"
+  ]
+}

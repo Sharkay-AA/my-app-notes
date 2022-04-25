@@ -5,4 +5,4 @@
 - React Hooks
 - React Router
 - React-redux
-- Crud (front-End)
+- Crud 
